@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+drawable next_button
+drawable prev_button
+id btn_notification_expanded_next
+id btn_notification_expanded_prev
+id flp_notification_expanded_flipper
+id img_notification_expanded_image
+id text_view_collapsed_1
+id text_view_collapsed_2
+id txt_notification_expanded_title
+layout slider_notification_collapsed
+layout slider_notification_expanded
+layout slider_notification_expanded_item
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+raw custom_notification_sound

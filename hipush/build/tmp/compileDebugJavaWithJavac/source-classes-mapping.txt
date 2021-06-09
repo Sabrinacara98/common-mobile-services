@@ -1,0 +1,8 @@
+com/hms/lib/commonmobileservices/push/databinding/SliderNotificationExpandedItemBinding.java
+ com.hms.lib.commonmobileservices.push.databinding.SliderNotificationExpandedItemBinding
+com/hms/lib/commonmobileservices/push/databinding/SliderNotificationExpandedBinding.java
+ com.hms.lib.commonmobileservices.push.databinding.SliderNotificationExpandedBinding
+com/hms/lib/commonmobileservices/push/BuildConfig.java
+ com.hms.lib.commonmobileservices.push.BuildConfig
+com/hms/lib/commonmobileservices/push/databinding/SliderNotificationCollapsedBinding.java
+ com.hms.lib.commonmobileservices.push.databinding.SliderNotificationCollapsedBinding
